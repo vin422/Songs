@@ -1,0 +1,66 @@
+Hotel California
+Eagles
+Hotel California
+1976
+Rock
+6 28
+Angie
+The Rolling Stones
+Goats Head Soup
+1973
+Rock
+4 32
+Don't Cry
+Guns N' Roses
+Use Your Illusion
+1991
+Classic Rock Ballad
+4 45
+Holiday
+Scorpions
+Born To Touch Your Feelings
+1978
+Rock Ballad
+6 26
+Learning To Fly
+Pink Floyd
+A Momentary Lapse Of Reason
+1987
+Progressive Rock
+4 48
+Nothing Else Matters
+Metallica
+Metallica
+1992
+Heavy Metal
+6 28
+Enjoy The Silence
+Depeche Mode
+Violator
+1989
+Synth-Pop
+6 15
+Have You Ever Seen the Rain
+Smokie
+The World and Elsewhere
+1995
+Rock
+4 16
+Hunting High and Low
+A-ha
+Hunting High and Low
+1985
+New Wave
+3 45
+Wind Of Change
+Scorpions
+Comeblack
+1991
+Hard Rock
+5 10
+Fade To Black
+Metallica
+Ride The Lightning
+1984
+Heavy Metal
+6 55
